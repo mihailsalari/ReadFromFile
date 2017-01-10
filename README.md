@@ -3,7 +3,7 @@ Read From File
 
 ## Demo
 
-[![Demo Doccou alpha](https://github.com/mihailsalari/ColorControl/blob/master/ColorControl/Assets.xcassets/Screen.imageset/Screen.png)](https://www.youtube.com)
+[![Demo Doccou alpha](https://github.com/mihailsalari/ReadFromFile/blob/master/Screens/Screen1.png)](https://www.youtube.com)
 
 ## Support
 
